@@ -1,0 +1,15 @@
+***
+*** Now run 'make gdb'.
+***
+
+(process:2824): GLib-WARNING **: /build/glib2.0-RnwmWL/glib2.0-2.48.2/./glib/gmem.c:483: custom memory allocation vtable not supported
+6828 decimal is 15254 octal!
+Physical memory: 131072K available, base = 640K, extended = 130432K
+npages: 8000 
+check_page_alloc() succeeded!
+check_page() succeeded!
+check_kern_pgdir() succeeded!
+check_page_installed_pgdir() succeeded!
+Welcome to the JOS kernel monitor!
+Type 'help' for a list of commands.
+qemu: terminating on signal 15 from pid 2787
